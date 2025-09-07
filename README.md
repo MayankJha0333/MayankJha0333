@@ -1,13 +1,16 @@
 ![header](assets/header.webp)
 
-<p align="center">
-  <a href="https://github.com/MayankJha0333">
-    <img src="https://img.shields.io/github/followers/MayankJha0333?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/MayankJha0333">
-    <img src="https://img.shields.io/github/stars/MayankJha0333?style=social" alt="GitHub Stars" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <br><br>
+<!--   <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
+  <a href="https://www.linkedin.com/in/mayank-jha-674118228/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" /></a>
+<a href="https://dev.to/mayank_jha333"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username mayankjha" /></a>
+<a href="https://portfolio-v2-gold-omega.vercel.app/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of mayankjha" /></a>
+<a href="mailto:mayankjha0330@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Mayank i.e.   mayankjha0330@gmail.com" /></a>
+  <a href="https://x.com/MayankJha438636"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username MayankJha438636" ></a>
+</div>
+<br>
 
 <h3 align="center">
   Hi, I'm Mayank Jha
@@ -65,12 +68,10 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-%230170FE.svg?style=for-the-badge&logo=antdesign&logoColor=white)
 
-
 ## GitHub Stats
 
-
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayankJha0333&show_icons=true&theme=radical&border_radius=8) | ![GitHub Streak](https://streak-stats.demolab.com?user=MayankJha0333&theme=radical&border_radius=8) |
-| --- | --- |
+| -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 
 </p>
 </details>
@@ -83,15 +84,3 @@
 ## 📈 Contribution Graph
 
 [![MayankJha0333's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MayankJha0333&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🙋‍♀️ Let's Connect
-
-<p align="center">
-  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:candida.mayankjha0330@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/MayankJha0333"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/mayank-jha-674118228/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	
-</p>
-
-<hr/>
