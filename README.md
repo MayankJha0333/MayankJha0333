@@ -37,6 +37,8 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love building products from scratch and turning ideas into real platforms.**
 
+<br/>
+
 ### 🔄 Account Migration Notice
 
 ---
