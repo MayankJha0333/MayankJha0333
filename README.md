@@ -67,11 +67,23 @@
 
 <p align="center">
   <a href="https://github.com/MayankJha0333">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MayankJha0333&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="300px" src="https://github-readme-stats.vercel.app/api?username=MayankJha0333&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/MayankJha0333">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankJha0333&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankJha0333&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
 </details>
 <br>
+
+## 🙋‍♀️ Let's Connect
+
+<p align="center">
+  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:candida.mayankjha0330@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/MayankJha0333"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/mayank-jha-674118228/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	
+</p>
+
+<hr/>
