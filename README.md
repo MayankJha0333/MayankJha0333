@@ -86,6 +86,11 @@
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayankJha0333&show_icons=true&theme=radical&border_radius=8) | ![GitHub Streak](https://streak-stats.demolab.com?user=MayankJha0333&theme=radical&border_radius=8) |
 | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 
+### Most Language Used
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=radical" alt="candida18" height="192px"/>
+
+
 </p>
 </details>
 <br>
