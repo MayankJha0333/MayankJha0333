@@ -76,9 +76,11 @@
 </details>
 <br>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution
 
 [![MayankJha0333's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MayankJha0333&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Snake animation](https://github.com/MayankJha0333/MayankJha0333/blob/output/github-contribution-grid-snake.svg)
 
 ## 🙋‍♀️ Let's Connect
 
