@@ -40,16 +40,12 @@
 <br/>
 <br/>
 
-<br>
-<div>
-  <h3>🔄 Account Migration Notice</h3>
-  <p>
-    <strong>📌 Previous account <a href="https://github.com/MayankJha014">@MayankJha014</a> was lost</strong><br>
-    <strong>✅ This is my new active GitHub profile</strong>
-  </p>
-  <img src="https://img.shields.io/badge/Status-New%20Active%20Account-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="New Active Account" />
-</div>
-<br>
+### 🔄 Account Migration Notice
+
+---
+
+**📌 Previous account [@MayankJha014](https://github.com/MayankJha014) was lost**  
+**✅ This is my new active GitHub profile**
 
 ## 🛠 &nbsp;Tech Stack
 
