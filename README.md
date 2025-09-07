@@ -78,7 +78,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/assets/github-contribution-grid-snake-dark.svg)
+![Snake animation Contribution Graph](https://github.com/MayankJha0333/MayankJha0333/blob/main/assets/github-contribution-grid-snake-dark.svg)
 
 ## 🙋‍♀️ Let's Connect
 
