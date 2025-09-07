@@ -65,7 +65,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-%230170FE.svg?style=for-the-badge&logo=antdesign&logoColor=white)
 
-<p align="center">
+<div align="center" style="display: flex; gap: 10px; justify-content: center;">
   <a href="https://github.com/MayankJha0333">
     <img src="https://streak-stats.demolab.com?user=MayankJha0333&theme=radical" height="180"/>
   </a>
