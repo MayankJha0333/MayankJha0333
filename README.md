@@ -37,15 +37,14 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love building products from scratch and turning ideas into real platforms.**
 
-<br/>
-<br/>
-
 ### 🔄 Account Migration Notice
 
 ---
 
 **📌 Previous account [@MayankJha014](https://github.com/MayankJha014) was lost**  
 **✅ This is my new active GitHub profile**
+
+<br/>
 
 ## 🛠 &nbsp;Tech Stack
 
