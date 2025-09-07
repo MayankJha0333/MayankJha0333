@@ -25,16 +25,6 @@
 </p>
 
 </div>
-<br>
-<div>
-  <h3>🔄 Account Migration Notice</h3>
-  <p>
-    <strong>📌 Previous account <a href="https://github.com/MayankJha014">@MayankJha014</a> was lost</strong><br>
-    <strong>✅ This is my new active GitHub profile</strong>
-  </p>
-</div>
-<br>
-
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/animation_500_kxa883sd.gif" alt="Mayank Jha" /></p>
 
@@ -49,6 +39,17 @@
 
 <br/>
 <br/>
+
+<br>
+<div>
+  <h3>🔄 Account Migration Notice</h3>
+  <p>
+    <strong>📌 Previous account <a href="https://github.com/MayankJha014">@MayankJha014</a> was lost</strong><br>
+    <strong>✅ This is my new active GitHub profile</strong>
+  </p>
+  <img src="https://img.shields.io/badge/Status-New%20Active%20Account-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="New Active Account" />
+</div>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
