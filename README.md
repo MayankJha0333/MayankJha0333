@@ -26,22 +26,15 @@
 
 </div>
 <br>
-<div align="center">
-  <h2>🔄 Account Migration Notice</h2>
+<div>
+  <h3>🔄 Account Migration Notice</h3>
   <p>
     <strong>📌 Previous account <a href="https://github.com/MayankJha014">@MayankJha014</a> was lost</strong><br>
     <strong>✅ This is my new active GitHub profile</strong>
   </p>
-  <img src="https://img.shields.io/badge/Status-New%20Active%20Account-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="New Active Account" />
 </div>
 <br>
-<h3 align="center">
-  Hi, I'm Mayank Jha
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Full%20Stack%20Developer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=440&height=45">
-</p>
+
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/animation_500_kxa883sd.gif" alt="Mayank Jha" /></p>
 
