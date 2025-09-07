@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://github.com/MayankJha0333">
-    <img align="center" src="https://streak-stats.demolab.com?user=MayankJha0333&theme=dark"/>
+    <img align="center" src="https://streak-stats.demolab.com?user=MayankJha0333&theme=radical"/>
   </a>
   <a href="https://github.com/MayankJha0333">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MayankJha0333&show_icons=true&theme=radical" />
