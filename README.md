@@ -38,6 +38,9 @@
 <br/>
 <br/>
 
+📌 \*Previous account [@MayankJha014](https://github.com/MayankJha014) was lost,  
+this is my new active GitHub profile.
+
 ## 🛠 &nbsp;Tech Stack
 
 #### 🔧 Languages
