@@ -78,7 +78,7 @@
 
 ## 🐍 Contribution Snake
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MayankJha0333)](https://git.io/streak-stats)
+[![MayankJha0333's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MayankJha0333&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🙋‍♀️ Let's Connect
 
