@@ -67,11 +67,13 @@
 
 <p align="center">
   <a href="https://github.com/MayankJha0333">
-    <img align="center" src="https://streak-stats.demolab.com?user=MayankJha0333&theme=radical"/>
+    <img src="https://streak-stats.demolab.com?user=MayankJha0333&theme=radical" height="180"/>
   </a>
   <a href="https://github.com/MayankJha0333">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MayankJha0333&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MayankJha0333&show_icons=true&theme=radical" height="180"/>
   </a>
+</p>
+
 </p>
 </details>
 <br>
