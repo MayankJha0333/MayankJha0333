@@ -31,7 +31,7 @@
 - 👯 I’m looking to collaborate on **Full Stack, AI-powered apps, and product-driven platforms.**
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB, and AI integrations.**
 - 🚀 Built **[Entrepreneur Woods](https://entrepreneur-woods-wprw-front.vercel.app/)** – a startup-focused news platform with automated content updates & rich admin tools.
-- 📫 Reach me at: **[Portfolio](https://portfolio-v2-gold-omega.vercel.app/)** | **[Resume](https://drive.google.com/file/d/1TiKJH_Imaq87FzGDEmPS9O4nkrmdDQUJ/view?usp=drivesdk)**
+- 📫 Reach me at: **[Portfolio](https://portfolio-v2-gold-omega.vercel.app/)** | **[Resume](https://drive.google.com/file/d/1PikRu8fMIWbbtlgeCsKrhfTB5cCM9UFk/view?usp=sharing)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love building products from scratch and turning ideas into real platforms.**
 
