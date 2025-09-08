@@ -102,4 +102,4 @@
 
 ## 📈 Contribution Graph
 
-[![MayankJha0333's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MayankJha0333&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![MayankJha0333's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MayankJha0333&theme=github-compact&hide_border=true)](https://github.com/MayankJha0333)
