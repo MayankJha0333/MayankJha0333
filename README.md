@@ -87,10 +87,10 @@
 | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 
 ### Most Language Used
+
 ---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MayankJha0333&show_icons=true&locale=en&layout=compact&theme=radical" alt="candida18" height="192px"/>
-
 
 </p>
 </details>
@@ -102,4 +102,4 @@
 
 ## 📈 Contribution Graph
 
-[![MayankJha0333's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MayankJha0333&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![MayankJha0333's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MayankJha0333&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
