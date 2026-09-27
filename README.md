@@ -8,8 +8,7 @@
 <p align="center">
   <a href="https://portfolio-v2-gold-omega.vercel.app/"><b>Portfolio</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/mayank-jha-674118228/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="https://dev.to/mayank_jha333"><b>Dev.to</b></a> &nbsp;·&nbsp;
-  <a href="https://x.com/MayankJha438636"><b>X</b></a> &nbsp;·&nbsp;
+  <a href="https://www.reddit.com/user/Mayank_Builds/"><b>Reddit</b></a> &nbsp;·&nbsp;
   <a href="mailto:mayankjha0330@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
   <a href="https://drive.google.com/file/d/1PikRu8fMIWbbtlgeCsKrhfTB5cCM9UFk/view?usp=sharing"><b>Resume</b></a>
 </p>
