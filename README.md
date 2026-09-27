@@ -1,105 +1,124 @@
-![Banner GitHub](assets/322279895-fe054170-c69a-41d2-8e73-f7f239ebc046.png)
-
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=MayankJha0333&label=VISITORS&labelColor=%230d1117&countColor=%23ff0055" />
-<br><br>
-
-<!--   <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
-
-<a href="https://www.linkedin.com/in/mayank-jha-674118228/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" /></a>
-<a href="https://dev.to/mayank_jha333"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username mayankjha" /></a>
-<a href="https://portfolio-v2-gold-omega.vercel.app/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of mayankjha" /></a>
-<a href="mailto:mayankjha0330@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Mayank i.e.   mayankjha0330@gmail.com" /></a>
-<a href="https://x.com/MayankJha438636"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username MayankJha438636" ></a>
-
-</div>
-<br>
-
-<h3 align="center">
-  Hi, I'm Mayank Jha
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<!-- Banner switches with GitHub's light / dark theme -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/banner-light.svg">
+  <img alt="Mayank Jha — full-stack developer and AI engineer" src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/banner-light.svg" width="100%">
+</picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Full%20Stack%20Developer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=440&height=45">
+  <a href="https://portfolio-v2-gold-omega.vercel.app/"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mayank-jha-674118228/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://dev.to/mayank_jha333"><b>Dev.to</b></a> &nbsp;·&nbsp;
+  <a href="https://x.com/MayankJha438636"><b>X</b></a> &nbsp;·&nbsp;
+  <a href="mailto:mayankjha0330@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
+  <a href="https://drive.google.com/file/d/1PikRu8fMIWbbtlgeCsKrhfTB5cCM9UFk/view?usp=sharing"><b>Resume</b></a>
 </p>
 
-</div>
-
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/animation_500_kxa883sd.gif" alt="Mayank Jha" /></p>
-
-- 🔭 I’m currently working as a **Full Stack Intern at Pulsegen**, building AI-first product intelligence tools.
-- 🌱 I’m currently learning **advanced RAG pipelines & scalable system design.**
-- 👯 I’m looking to collaborate on **Full Stack, AI-powered apps, and product-driven platforms.**
-- 💬 Ask me about **React, Next.js, Node.js, MongoDB, and AI integrations.**
-- 🚀 Built **[Entrepreneur Woods](https://entrepreneur-woods-wprw-front.vercel.app/)** – a startup-focused news platform with automated content updates & rich admin tools.
-- 📫 Reach me at: **[Portfolio](https://portfolio-v2-gold-omega.vercel.app/)** | **[Resume](https://drive.google.com/file/d/1PikRu8fMIWbbtlgeCsKrhfTB5cCM9UFk/view?usp=sharing)**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love building products from scratch and turning ideas into real platforms.**
-
-<br/>
-
-### 🔄 Account Migration Notice
-
----
-
-**📌 Previous account [@MayankJha014](https://github.com/MayankJha014) was lost**  
-**✅ This is my new active GitHub profile**
-
-<br/>
-
-## 🛠 &nbsp;Tech Stack
-
-#### 🔧 Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-#### 🖥️ Frameworks
-
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-#### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-%23000000.svg?style=for-the-badge&logo=weaviate&logoColor=white)
-
-#### 📚 AI / ML
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
-
-#### 🎨 Styling
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-%230170FE.svg?style=for-the-badge&logo=antdesign&logoColor=white)
-
-## GitHub Stats
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayankJha0333&show_icons=true&theme=radical&border_radius=8) | ![GitHub Streak](https://streak-stats.demolab.com?user=MayankJha0333&theme=radical&border_radius=8) |
-| -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-
-### Most Language Used
-
----
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MayankJha0333&show_icons=true&locale=en&layout=compact&theme=radical" alt="MayankJha0333" height="192px"/>
-
-</p>
-</details>
 <br>
 
-## 🔥 Contribution Streak & Activity
+## About
 
-![Snake animation](https://github.com/MayankJha0333/MayankJha0333/blob/output/github-contribution-grid-snake.svg)
+I'm a full-stack developer (he/him) who likes taking a product from idea to launch — design, code and ship. Right now I'm a **Full Stack Intern at Pulsegen**, building AI-first product intelligence tools.
 
-## 📈 Contribution Graph
+- **Building** &nbsp;web apps, mobile apps and VS Code extensions
+- **Learning** &nbsp;advanced RAG pipelines and system design at scale
+- **Open to** &nbsp;collaborating on full-stack, AI-powered and product-led projects
+- **Ask me about** &nbsp;React, Next.js, Node.js, MongoDB and AI integrations
 
-[![MayankJha0333's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MayankJha0333&theme=github-compact&hide_border=true)](https://github.com/MayankJha0333)
+<br>
+
+## Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://marketplace.visualstudio.com/items?itemName=LinkInsightLab.klaude"><img src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/projects/klaude.webp" alt="Klaude — agentic coding assistant for VS Code" width="100%"></a>
+      <h3>Klaude</h3>
+      <p>The Claude Code agent inside a VS Code side panel — streaming chat, multi-file edits with diff previews, and terminal runs. Published on the VS Code Marketplace and Open VSX.</p>
+      <p><sub>TypeScript · VS Code Extension API</sub></p>
+      <p><a href="https://marketplace.visualstudio.com/items?itemName=LinkInsightLab.klaude">Install</a> &nbsp;·&nbsp; <a href="https://github.com/MayankJha0333/klaude">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MayankJha0333/sahayak"><img src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/projects/sahayak.webp" alt="Sahayak — house help in ten minutes" width="100%"></a>
+      <h3>Sahayak</h3>
+      <p>House help in ten minutes. A customer app, an expert app and an ops website on one shared backend — book by the hour, pay online, track the expert live.</p>
+      <p><sub>Expo (React Native) · Firebase · Razorpay · Vite</sub></p>
+      <p><a href="https://github.com/MayankJha0333/sahayak">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MayankJha0333/bookwell"><img src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/projects/bookwell.webp" alt="BookWell — appointment booking platform" width="100%"></a>
+      <h3>BookWell</h3>
+      <p>Appointment booking for salons and studios. A custom availability engine works out open slots and makes sure the same slot can never be booked twice — even from two tabs at once.</p>
+      <p><sub>Next.js 14 · TypeScript · Tailwind CSS · GSAP</sub></p>
+      <p><a href="https://github.com/MayankJha0333/bookwell">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://entrepreneur-woodss.vercel.app"><img src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/projects/entrepreneur-woods.webp" alt="Entrepreneur Woods — startup news publication" width="100%"></a>
+      <h3>Entrepreneur Woods</h3>
+      <p>A startup-news site. Readers get an animated front page; editors get a full admin with a post editor, RSS import and audience stats — all in one Next.js app.</p>
+      <p><sub>Next.js · TypeScript · MongoDB · GSAP</sub></p>
+      <p><a href="https://entrepreneur-woodss.vercel.app">Live</a> &nbsp;·&nbsp; <a href="https://github.com/MayankJha0333/Entrepreneur-Woodss">Code</a></p>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>More projects</b></summary>
+<br>
+
+| Project | What it does | Built with | |
+| :-- | :-- | :-- | :-- |
+| [BiteSpeed Flow Builder](https://github.com/MayankJha0333/BiteSpeed-Flow-Builder) | Drag-and-drop builder for chatbot message flows | Next.js · React Flow | [Live](https://bite-speed-flow-builder-xi.vercel.app) |
+| [Chat Messenger](https://github.com/MayankJha0333/Chat-Messanger) | Real-time chat with groups, typing indicators and read receipts | MERN · Socket.io | [Live](https://chat-messanger-front.vercel.app/) |
+| [Notion Blog Hub](https://github.com/MayankJha0333/Notion-Blog-Hub) | Blog that publishes posts straight from a Notion database | React · Redux · Notion API | [Live](https://blog-website-31b6.vercel.app/) |
+| [Agentic RAG on Kubeflow](https://github.com/MayankJha0333/Agentic-RAG-on-Kubeflow-Expansion-of-kubeflow-docs-agent) | System design for a multi-agent RAG assistant on Kubeflow | LangGraph · KServe · Kubeflow Pipelines | |
+| [Plant Detection](https://github.com/MayankJha0333/Plant-Based-Detetcion) | Identifies plant leaves from a photo and shows their Ayurvedic uses | Flutter · Dart | |
+
+</details>
+
+<br>
+
+## Open source
+
+13 merged pull requests across these projects:
+
+| | Project | What I did | Merged |
+| :-: | :-- | :-- | :-: |
+| <img src="https://avatars.githubusercontent.com/u/38386696?s=48&v=4" width="24" alt="MetaCall"> | [**MetaCall · MetaSSR**](https://github.com/metacall/metassr/pulls?q=is%3Apr+author%3AMayankJha0333+is%3Amerged) <br><sub>Rust server-side rendering framework</sub> | Fixed live reload for API routes, SSR/SSG build mapping and a crash on files without extensions. Added test suites for the CLI, server, API handler and client builder. | 9 |
+| <img src="https://avatars.githubusercontent.com/u/38386696?s=48&v=4" width="24" alt="MetaCall"> | [**MetaCall · Core**](https://github.com/metacall/core/pulls?q=is%3Apr+author%3AMayankJha0333+is%3Amerged) <br><sub>Polyglot runtime</sub> | Added file-type detection by extension and an execution-path helper | 1 |
+| <img src="https://avatars.githubusercontent.com/u/33164907?s=48&v=4" width="24" alt="Kubeflow"> | [**Kubeflow · docs-agent**](https://github.com/kubeflow/docs-agent/pulls?q=is%3Apr+author%3AMayankJha0333+is%3Amerged) <br><sub>AI agent for the Kubeflow docs</sub> | Made the hard-coded namespace configurable; fixed `top_k` being ignored in Milvus search | 2 |
+| <img src="https://avatars.githubusercontent.com/u/24500036?s=48&v=4" width="24" alt="Palisadoes Foundation"> | [**Palisadoes · Talawa Admin**](https://github.com/PalisadoesFoundation/talawa-admin/pulls?q=is%3Apr+author%3AMayankJha0333+is%3Amerged) <br><sub>Community management admin portal</sub> | Raised test coverage for direct chats | 1 |
+
+<sub>[See every merged PR →](https://github.com/search?q=author%3AMayankJha0333+is%3Apr+is%3Amerged&type=pullrequests)</sub>
+
+<br>
+
+## Toolkit
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/toolkit-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/toolkit-light.svg">
+  <img alt="Tech stack: TypeScript, JavaScript, React, Next.js, Tailwind, Vite, Node.js, Express, MongoDB, Firebase, Flutter, Dart, TensorFlow, Rust, Figma, VS Code, Git" src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/toolkit-light.svg" width="100%">
+</picture>
+
+<br><br>
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/output/github-contribution-grid-snake.svg">
+  <img alt="Snake eating my GitHub contribution grid" src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<br><br>
+
+---
+
+<p align="center">
+  <sub>My earlier account <a href="https://github.com/MayankJha014">@MayankJha014</a> was lost — older projects live there. This is my active profile.</sub>
+  <br><br>
+  <img src="https://api.visitorbadge.io/api/visitors?path=MayankJha0333&label=profile%20views&labelColor=%23161b22&countColor=%23f0643c&style=flat-square" alt="Profile views">
+</p>
