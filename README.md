@@ -69,7 +69,6 @@ I'm a full-stack developer (he/him) who likes taking a product from idea to laun
 
 | Project | What it does | Built with | |
 | :-- | :-- | :-- | :-- |
-| [BiteSpeed Flow Builder](https://github.com/MayankJha0333/BiteSpeed-Flow-Builder) | Drag-and-drop builder for chatbot message flows | Next.js · React Flow | [Live](https://bite-speed-flow-builder-xi.vercel.app) |
 | [Chat Messenger](https://github.com/MayankJha0333/Chat-Messanger) | Real-time chat with groups, typing indicators and read receipts | MERN · Socket.io | [Live](https://chat-messanger-front.vercel.app/) |
 | [Notion Blog Hub](https://github.com/MayankJha0333/Notion-Blog-Hub) | Blog that publishes posts straight from a Notion database | React · Redux · Notion API | [Live](https://blog-website-31b6.vercel.app/) |
 | [Agentic RAG on Kubeflow](https://github.com/MayankJha0333/Agentic-RAG-on-Kubeflow-Expansion-of-kubeflow-docs-agent) | System design for a multi-agent RAG assistant on Kubeflow | LangGraph · KServe · Kubeflow Pipelines | |
