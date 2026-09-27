@@ -31,7 +31,7 @@ I'm a full-stack developer (he/him) who likes taking a product from idea to laun
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://marketplace.visualstudio.com/items?itemName=LinkInsightLab.klaude"><img src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/projects/klaude.webp" alt="Klaude — agentic coding assistant for VS Code" width="100%"></a>
+      <a href="https://open-vsx.org/extension/LinkInsightLab/klaude"><img src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/projects/klaude.webp" alt="Klaude — agentic coding assistant for VS Code" width="100%"></a>
       <h3>Klaude</h3>
       <p>The Claude Code agent inside a VS Code side panel — streaming chat, multi-file edits with diff previews, and terminal runs. Published on the VS Code Marketplace and Open VSX.</p>
       <p><sub>TypeScript · VS Code Extension API</sub></p>
@@ -98,7 +98,7 @@ I'm a full-stack developer (he/him) who likes taking a product from idea to laun
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/toolkit-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/toolkit-light.svg">
-  <img alt="Tech stack: TypeScript, JavaScript, React, Next.js, Tailwind, Vite, Node.js, Express, MongoDB, Firebase, Flutter, Dart, TensorFlow, Rust, Figma, VS Code, Git" src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/toolkit-light.svg" width="100%">
+  <img alt="Tech stack: TypeScript, JavaScript, React, Next.js, Tailwind, Vite, Ant Design, React Flow, Flutter, Dart, Node.js, Express, MongoDB, Firebase, ClickHouse, Docker, LangGraph, Mastra, MCP, TensorFlow, AWS, GCP, Razorpay, Figma, VS Code, Git" src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/toolkit-light.svg" width="100%">
 </picture>
 
 <br><br>
