@@ -47,7 +47,7 @@ I'm a full-stack developer (he/him) who likes taking a product from idea to laun
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://vizpilot-puce.vercel.app"><img src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/projects/vizpilot.webp" alt="VizPilot — AI dashboard builder" width="100%"></a>
+      <a href="https://vizpilot-puce.vercel.app"><img src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/projects/vizpilot.webp" alt="VizPilot — AI dashboard builder with a claymorphism UI" width="100%"></a>
       <h3>VizPilot</h3>
       <p>Ask your data a question and watch the dashboard build itself. Drop in a CSV and an AI analyst answers in plain English, then builds charts you can drag, resize, restyle and share.</p>
       <p><sub>Next.js · TypeScript · MongoDB · Firebase · Recharts</sub></p>
