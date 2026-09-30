@@ -47,11 +47,11 @@ I'm a full-stack developer (he/him) who likes taking a product from idea to laun
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/MayankJha0333/bookwell"><img src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/projects/bookwell.webp" alt="BookWell — appointment booking platform" width="100%"></a>
-      <h3>BookWell</h3>
-      <p>Appointment booking for salons and studios. A custom availability engine works out open slots and makes sure the same slot can never be booked twice — even from two tabs at once.</p>
-      <p><sub>Next.js 14 · TypeScript · Tailwind CSS · GSAP</sub></p>
-      <p><a href="https://github.com/MayankJha0333/bookwell">Code</a></p>
+      <a href="https://vizpilot-puce.vercel.app"><img src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/projects/vizpilot.webp" alt="VizPilot — AI dashboard builder" width="100%"></a>
+      <h3>VizPilot</h3>
+      <p>Ask your data a question and watch the dashboard build itself. Drop in a CSV and an AI analyst answers in plain English, then builds charts you can drag, resize, restyle and share.</p>
+      <p><sub>Next.js · TypeScript · MongoDB · Firebase · Recharts</sub></p>
+      <p><a href="https://vizpilot-puce.vercel.app">Live</a> &nbsp;·&nbsp; <a href="https://github.com/MayankJha0333/VizPilot">Code</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://entrepreneur-woodss.vercel.app"><img src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/projects/entrepreneur-woods.webp" alt="Entrepreneur Woods — startup news publication" width="100%"></a>
@@ -69,6 +69,7 @@ I'm a full-stack developer (he/him) who likes taking a product from idea to laun
 
 | Project | What it does | Built with | |
 | :-- | :-- | :-- | :-- |
+| [BookWell](https://github.com/MayankJha0333/bookwell) | Appointment booking for salons and studios — the same slot can never be booked twice | Next.js 14 · TypeScript · Tailwind CSS · GSAP | |
 | [Chat Messenger](https://github.com/MayankJha0333/Chat-Messanger) | Real-time chat with groups, typing indicators and read receipts | MERN · Socket.io | [Live](https://chat-messanger-front.vercel.app/) |
 | [Notion Blog Hub](https://github.com/MayankJha0333/Notion-Blog-Hub) | Blog that publishes posts straight from a Notion database | React · Redux · Notion API | [Live](https://blog-website-31b6.vercel.app/) |
 | [Agentic RAG on Kubeflow](https://github.com/MayankJha0333/Agentic-RAG-on-Kubeflow-Expansion-of-kubeflow-docs-agent) | System design for a multi-agent RAG assistant on Kubeflow | LangGraph · KServe · Kubeflow Pipelines | |
