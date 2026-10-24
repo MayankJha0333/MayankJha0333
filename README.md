@@ -31,6 +31,22 @@ I'm a full-stack developer (he/him) who likes taking a product from idea to laun
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://dovli.in"><img src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/projects/dovli.webp" alt="Dovli — a calm place to write, plan and sketch" width="100%"></a>
+      <h3>Dovli</h3>
+      <p>A calm place to write, plan and sketch. Block-based docs, to-dos and whiteboards that work offline and sync across the web, Android, desktop and a Chrome side panel — and your AI apps can read and edit pages over MCP.</p>
+      <p><sub>Next.js · Expo (React Native) · BlockNote · Firebase · MCP</sub></p>
+      <p><a href="https://dovli.in">Live</a> &nbsp;·&nbsp; <a href="https://chromewebstore.google.com/detail/eompomcfedlnlnbgbacbennoaehobodh">Chrome extension</a> &nbsp;·&nbsp; <a href="https://github.com/MayankJha0333/dovli">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://crestclip.com"><img src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/projects/crestclip.webp" alt="CrestClip — AI clips of the moments viewers rewatch" width="100%"></a>
+      <h3>CrestClip</h3>
+      <p>Clips the moment everyone rewatches. Paste a long video and it reads YouTube's "most replayed" data, comment timestamps and audio energy, then hands you vertical clips with captions, a hook and a score.</p>
+      <p><sub>React · Express · Gemini on Vertex AI · MongoDB · BullMQ · ffmpeg</sub></p>
+      <p><a href="https://crestclip.com">Live</a> &nbsp;·&nbsp; <a href="https://www.producthunt.com/products/crestclip">Product Hunt</a> &nbsp;·&nbsp; <a href="https://github.com/MayankJha0333/crestclip">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://open-vsx.org/extension/LinkInsightLab/klaude"><img src="https://raw.githubusercontent.com/MayankJha0333/MayankJha0333/main/assets/projects/klaude.webp" alt="Klaude — agentic coding assistant for VS Code" width="100%"></a>
       <h3>Klaude</h3>
       <p>The Claude Code agent inside a VS Code side panel — streaming chat, multi-file edits with diff previews, and terminal runs. Published on the VS Code Marketplace and Open VSX.</p>
